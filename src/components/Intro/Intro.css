@@ -1,0 +1,38 @@
+.intro {
+    margin-top: 91px;
+}
+
+.intro__app {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.intro__app__text h2 {
+    margin-top: 90px;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.intro__app__text p {
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 16px;
+    width: 500px;
+    line-height: 24px;
+    color: #777;
+}
+
+.intro__app__text button {
+    margin-top: 40px;
+    color: #fff;
+    width: 300px;
+    height: 50px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: 12px 38px 12px 38px;
+    background-color: #EA625C;
+}

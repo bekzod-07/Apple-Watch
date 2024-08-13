@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+    max-width: 1220px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.site__header__app {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.site__header__app__icon {
+    margin-top: 30px;
+}
+
+.site__header__app__title {
+    margin-top: 37px;
+    display: flex;
+    color: #333;
+}
+
+.site__header__app__title ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.site__header__app__title p {
+    text-decoration: underline 2px;
+    text-underline-offset: 6px;
+    padding-left: 40px;
+}
