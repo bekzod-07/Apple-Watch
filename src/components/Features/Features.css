@@ -1,0 +1,29 @@
+.features {
+    margin-top: 70px;
+}
+
+.features__app {
+    column-count: 3;
+    column-gap: 30px;
+}
+
+.features__app__section__one h3 {
+    font-size: 22px;
+    color: #222;
+}
+
+.features__app__section__one p {
+    margin-top: 30px;
+    line-height: 24px;
+    color: #333333;
+}
+
+.features__app__section__one h2 {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: left;
+    color: #EA625C;
+}
